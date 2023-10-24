@@ -2,3 +2,6 @@ p1=float(input("enter any number "))
 p1=float(input("enter any number "))
 total=p1+p2
 print("the total of this two nubmers is, ", total)
+
+
+3456
